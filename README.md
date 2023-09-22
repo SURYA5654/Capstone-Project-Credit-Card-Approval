@@ -1,23 +1,6 @@
 # Capstone-Project-Credit-Card-Approval
 Project proposal to predict credit card approval
 
-Project proposal to predict credit card approval
-
-
-Questions
-
-Hypothesis
-
-Approach
-
-
-You will prepare a project proposal detailing the questions we are wanting to answer. The initial hypotheses about the data relationships and the approach you will take to get your answers.
-
-
-Proposal is just a plan.
-
-End goal is important
-
 
 Section 1: Questions to Answer
 
